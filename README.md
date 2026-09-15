@@ -5,7 +5,18 @@ plataforma interna **Allianz GenAI-Lab**.
 
 **Publicado en:** https://next-leap-s-a-s.github.io/agentes-genai-lab/
 
-## Que contiene
+## Paginas
+
+- **`index.html`** — Modulos 1-3 (Concepto, Por que agente, Ingredientes,
+  Receta, Aplicacion). Ver detalle mas abajo.
+- **`profundizacion-por-area.html`** — Modulo 4 y 5, profundizacion por
+  area de negocio (Finanzas, Comercial, Operaciones, Indemnizaciones,
+  Suscripciones, Marketing, Experiencia del cliente): casos reales con
+  captura y fuente, radar de insurtechs, metodologia de diagnostico en 2h,
+  caja de herramientas (Copilot/GenAI-Lab) y lienzo de proyecto imprimible.
+  https://next-leap-s-a-s.github.io/agentes-genai-lab/profundizacion-por-area.html
+
+## Que contiene `index.html`
 
 - **Concepto** — que es un agente de IA, explicado con el mismo marco
   Rol · Contexto · Instruccion del taller de prompts.
