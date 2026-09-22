@@ -16,13 +16,13 @@ plataforma interna **Allianz GenAI-Lab**.
   diagnostico en 2h, caja de herramientas (Copilot/GenAI-Lab) y lienzo de
   proyecto imprimible.
   https://next-leap-s-a-s.github.io/agentes-genai-lab/profundizacion-por-area.html
-- **`cierre-programa.html`** — presentacion tipo keynote para la sesion de
-  cierre del programa: recorrido de los 4 modulos, agenda del dia, formato
-  del pitch de cierre (5 min), que hace bueno un pitch, preview de las 6
-  piezas del diagnostico individual (viabilidad, mapa conceptual, roadmap
-  semanal, KPIs, madurez, superprompt), sesion de seguimiento y recursos
-  del programa. Navegacion con flechas de teclado o clic en los bordes.
-  https://next-leap-s-a-s.github.io/agentes-genai-lab/cierre-programa.html
+- **`cierre-programa.html`** — pagina de apoyo para la sesion de cierre del
+  programa (2 horas, mismo formato visual que `index.html`): socializacion
+  del diagnostico con 1-2 grupos de ejemplo, una hora de contenido sobre
+  por que iterar (KPI, uso real de la herramienta, victorias tempranas,
+  respaldado con MIT NANDA y PMI), guia paso a paso de 30 minutos para
+  preparar el pitch de cierre y el formato de la ronda de socializacion
+  final. https://next-leap-s-a-s.github.io/agentes-genai-lab/cierre-programa.html
 
 ## Que contiene `index.html`
 
