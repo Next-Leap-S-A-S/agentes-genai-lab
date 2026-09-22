@@ -11,10 +11,18 @@ plataforma interna **Allianz GenAI-Lab**.
   Receta, Aplicacion). Ver detalle mas abajo.
 - **`profundizacion-por-area.html`** — Modulo 4 y 5, profundizacion por
   area de negocio (Finanzas, Comercial, Operaciones, Indemnizaciones,
-  Suscripciones, Marketing, Experiencia del cliente): casos reales con
-  captura y fuente, radar de insurtechs, metodologia de diagnostico en 2h,
-  caja de herramientas (Copilot/GenAI-Lab) y lienzo de proyecto imprimible.
+  Suscripciones, Marketing, Experiencia del cliente, Recursos Humanos):
+  casos reales con captura y fuente, radar de insurtechs, metodologia de
+  diagnostico en 2h, caja de herramientas (Copilot/GenAI-Lab) y lienzo de
+  proyecto imprimible.
   https://next-leap-s-a-s.github.io/agentes-genai-lab/profundizacion-por-area.html
+- **`cierre-programa.html`** — presentacion tipo keynote para la sesion de
+  cierre del programa: recorrido de los 4 modulos, agenda del dia, formato
+  del pitch de cierre (5 min), que hace bueno un pitch, preview de las 6
+  piezas del diagnostico individual (viabilidad, mapa conceptual, roadmap
+  semanal, KPIs, madurez, superprompt), sesion de seguimiento y recursos
+  del programa. Navegacion con flechas de teclado o clic en los bordes.
+  https://next-leap-s-a-s.github.io/agentes-genai-lab/cierre-programa.html
 
 ## Que contiene `index.html`
 
